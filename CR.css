@@ -1,0 +1,113 @@
+body {
+	background-image: url('cr.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.title {
+	font-size: 60px;
+	width: 1000px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 450px;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+}
+
+.sub-text {
+	color:white;
+	font-size: 20px;
+	font-family: courier;
+}
+
+.chemical {
+	width: 550px;
+	height: 500px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 50px;
+	margin-top: 20px;
+	transition: 0.5s;
+}
+
+.chemical:hover {
+	width: 560px;
+	height: 520px;
+}
+
+.lavoisier {
+	width: 350px;
+	height: 170px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 100px;
+	transition: 0.5s;
+}
+
+.lavoisier:hover {
+	height: 220px;
+}
+
+li {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	padding-bottom: 10px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrrr {
+	margin-bottom: 100px;
+}

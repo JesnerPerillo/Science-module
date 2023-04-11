@@ -1,0 +1,182 @@
+body {
+	background-image: url('es.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.title {
+	font-size: 60px;
+	width: 1000px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 450px;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	margin-bottom: 50px;
+}
+
+.table-text {
+	color: white;
+	font-size: 20px;
+	font-family: courier;
+	text-align: center;
+	margin-top: 150px;
+}
+
+.wave {
+	width: 550px;
+	height: 250px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 100px;
+	transition: 0.5s;
+}
+
+.wave:hover {
+	width: 560px;
+	height: 260px;
+}
+
+.table-title {
+	color: white;
+	font-family: courier;
+	font-size: 20px;
+	text-align: center;
+}
+
+table, th, td {
+	border: 1px solid white;
+	font-family: courier;
+	border-collapse: collapse;
+	width: 860px;
+	height: 80px;
+	color: white;
+	text-align: center;
+	margin-left: 515px;
+}
+
+table {
+	margin-bottom: 100px;
+}
+
+th:hover, td:hover {
+	background-color: gray;
+}
+
+.radio {
+	width: 450px;
+	height: 250px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.radio:hover {
+	width: 460px;
+	height: 260px;
+}
+
+.television {
+	width: 450px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+	margin-top: 20px;
+}
+
+.oven {
+	width: 450px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+	margin-top: 20px;
+}
+
+.television:hover, .oven:hover {
+	width: 490px;
+	height: 250px;
+}
+
+.xray {
+	width: 450px;
+	height: 300px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+	margin-top: 20px;
+}
+
+.xray:hover {
+	width: 550px;
+	height: 310px;
+}
+
+li {
+	color: white;
+	font-size: 25px;
+	font-family: courier;	
+	margin-bottom: 10px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrrr {
+	margin-bottom: 100px;
+}

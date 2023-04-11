@@ -1,0 +1,179 @@
+body {
+	background-image: url('gas.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.title {
+	font-size: 60px;
+	width: 1000px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 450px;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+}
+
+.text-title1 {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+	margin-top: 100px;
+}
+
+.gases {
+	width: 550px;
+	height: 300px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.gases:hover {
+	width: 560px;
+	height: 310px;
+}
+
+.table-title {
+	color: white;
+	font-size: 20px;
+	font-family: courier;
+	text-align: center;
+	margin-top: 100px;
+}
+
+table, td {
+	border: 1px solid white;
+	font-family: courier;
+	border-collapse: collapse;
+	width: 900px;
+	height: 150px;
+	color: white;
+	text-align: center;
+	margin-left: 500px;
+	margin-bottom: 100px;
+}
+
+th {
+	border: 1px solid white;
+	font-family: courier;
+	border-collapse: collapse;
+	width: 900px;
+	height: 50px;
+	color: white;
+	text-align: center;
+	margin-left: 550px;
+}
+
+td:hover, th:hover {
+	background-color: gray;
+}
+
+.robert {
+	width: 450px;
+	height: 250px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.jacques {
+	width: 450px;
+	height: 250px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.joseph {
+	width: 450px;
+	height: 250px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.avogadro {
+	width: 450px;
+	height: 250px;
+	border: 3px solid black;
+	border-radius: 5px;
+	margin-left: 20px;
+	transition: 0.5s;
+}
+
+.robert:hover, .jacques:hover, .joseph:hover, .avogadro:hover {
+	width: 460px;
+	height: 260px;
+}
+
+li {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	margin-bottom: 10px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrrr {
+	margin-bottom: 100px;
+}

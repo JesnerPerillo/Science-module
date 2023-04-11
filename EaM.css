@@ -1,0 +1,282 @@
+body {
+	background-image: url('EaM.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.title {
+	font-size: 60px;
+	width: 1000px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 450px;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.magnetism {
+	width: 1400px;
+	height: 400px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-left: 250px;
+	transition: 0.5s;
+}
+
+.hrr {
+	margin-top: 100px;
+}
+
+.electro {
+	color: white;
+	font-family: courier;
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 20px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.magnetism:hover {
+	scale: 1.07;
+	border-left: 3px inset blue;
+	border-right: 3px inset red;
+}
+
+.ten {
+	color: white;
+	width: 1400px;
+	font-size: 28px;
+	font-family: courier;
+	margin-top: 100px;
+	border-left: 5px solid white;
+	padding-left: 5px;
+	margin-top: 150px;
+	margin-bottom: 80px;
+	margin-left: 100px;
+}
+
+.ref, .tv, .comp, .smart, .light, .electric, .speaker, .doorbell, .clock, .credit {
+	color: white;
+	font-size: 20px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 200px;
+}
+
+.refpic:hover, .tvpic:hover, .comppic:hover, .smartpic:hover, .lightpic:hover, .elec:hover, .speakerpic:hover, .doorpic:hover, .clockpic:hover, .card:hover {
+	scale: 1.2;
+}
+
+.refpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 100px;
+	transition: 0.5s;
+}
+
+.tvpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 125px;
+	transition: 0.5s;
+}
+
+.comppic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 162px;
+	transition: 0.5s;
+}
+
+.smartpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 115px;
+	transition: 0.5s;
+}
+
+.lightpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 223px;
+	transition: 0.5s;
+}
+
+.elec {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 115px;
+	transition: 0.5s;
+}
+
+.speakerpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 295px;
+	transition: 0.5s;
+}
+
+.doorpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 115px;
+	transition: 0.5s;
+}
+
+.clockpic {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 115px;
+	transition: 0.5s;
+}
+
+.card {
+	width: 250px;
+	height: 150px;
+	border: 2px solid white;
+	margin-left: 175px;
+	transition: 0.5s;
+}
+
+.electricity {
+	width: 550px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	margin-top:20px;
+	transition: 0.5s;
+}
+
+.electricity:hover {
+	width: 560px;
+	height: 360px;
+}
+
+.induction {
+	width: 550px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 45px;
+	margin-top:20px;
+	transition: 0.5s;
+}
+
+.induction:hover {
+	width: 560px;
+	height: 460px;
+}
+
+.magnet {
+	width: 550px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 35px;
+	margin-top:20px;
+	transition: 0.5s;
+}
+
+.magnet:hover {
+	width: 560px;
+	height: 360px;
+}
+
+.mforce {
+	width: 500px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 35px;
+	margin-top:20px;
+	transition: 0.5s;
+}
+
+.mforce:hover {
+	height: 450px;
+}
+
+.poles {
+	width: 500px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 55px;
+	margin-top:20px;
+	transition: 0.5s;
+}
+
+.poles:hover {
+	height: 500px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrrr {
+	margin-bottom: 100px;
+}
