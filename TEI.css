@@ -1,0 +1,257 @@
+body {
+	background-image: url('try.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.title {
+	font-size: 70px;
+	margin: 0;
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+	margin-top: 60px;
+}
+
+.sub-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	text-align: center;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+.crust-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	vertical-align: top;
+	display: inline-block;
+	margin-bottom: 80px;
+}
+
+.cao {
+	width: 550px;
+	height: 440px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.cao:hover {
+	width: 560px;
+	height: 450px;
+}
+
+.elements {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 100px;
+}
+
+table, th, td {
+	border: 1px solid white;
+	font-family: courier;
+	border-collapse: collapse;
+	width: 600px;
+	height: 50px;
+	color: white;
+	text-align: center;
+	margin-left: 650px;
+	margin-bottom: 100px;
+}
+
+tr:hover {
+	background-color: gray;
+}
+
+.mantle-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	vertical-align: top;
+	display: inline-block;
+	margin-bottom: 80px;
+}
+
+.mantle {
+	width: 550px;
+	height: 450px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 80px;
+	transition: 0.5s;
+}
+
+.mantle:hover {
+	width: 560px;
+	height: 460px;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.core-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	vertical-align: top;
+	display: inline-block;
+	margin-bottom: 80px;
+}
+
+.core {
+	width: 500px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.core:hover {
+	width: 510px;
+	height: 360px;
+}
+
+.normal-title {
+	color: white;
+	font-size: 35px;
+	width: 750px;
+	font-family: serif;
+	border-left: 5px solid white;
+	padding-left: 5px;
+	transition: 0.5s;
+}
+
+.normal-title:hover {
+	background-color: gray;
+}
+
+.longwave, .rayleighwave {
+	width: 1000px;
+	height: 200px;
+	border: 2px solid white;
+	border-radius: 5px;
+	margin-left: 430px;
+	margin-top: 30px;
+	margin-bottom: 50px;
+	transition: 0.5s;
+}
+
+.longwave:hover, .rayleighwave:hover {
+	scale: 1.1;
+}
+
+.Pswave {
+	width: 550px;
+	height: 450px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 10px;
+	transition: 0.5s;
+}
+
+.Pswave:hover {
+	scale: 1.05;
+}
+
+.continental {
+	width: 650px;
+	height: 350px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.continental:hover {
+	width: 660px;
+	height: 360px;
+}
+
+.harry {
+	width: 550px;
+	height: 450px;
+	border: 3px solid white;
+	border-radius: 5px;
+	margin-left: 50px;
+	transition: 0.5s;
+}
+
+.harry:hover {
+	width: 560px;
+	height: 460px;
+}
+
+li {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	margin-bottom: 10px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrr {
+	margin-bottom: 100px;
+}

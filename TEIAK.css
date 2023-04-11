@@ -1,0 +1,27 @@
+body {
+	background-image: url('ptbg.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.title {
+	font-size: 50px;
+	width: 1500px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 150px;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.question{
+	color: white;
+	font-family: courier;
+	font-size: 30px;
+	margin-bottom: 20px;
+}

@@ -1,0 +1,257 @@
+body {
+	background-image: url('ptbg.jpg');
+	background-repeat: no repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.tectonic {
+	font-size: 70px;
+	width: 700px;
+	margin: 0px;
+	text-align: center;
+	font-family: serif;
+	color: white;
+	margin-left: 600px;
+}
+
+.hr {
+	margin-bottom: 100px;
+}
+
+.des {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.dess {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.tec {
+	width: 500px;
+	height: 300px;
+	margin-left: 70px;
+	border: 5px solid black;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+.plate {
+	width: 550px;
+	height: 430px;
+	margin-left: 100px;
+	margin-top: 0px;
+	border: 5px solid black;
+	border-radius: 10px;
+	vertical-align: center;
+	transition: 0.5s;
+}
+
+.platee {
+	color: white;
+	font-size: 25px;
+	margin-top: 0px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.tec:hover {
+	width: 510px;
+	height: 310px;
+	
+}
+
+.plate:hover {
+	width: 560px;
+	height: 440px;
+}
+
+.text-title {
+	color: white;
+	font-size: 40px;
+	font-family: courier;
+	border-left: 4px solid white;
+	padding-left: 5px;
+}
+
+.text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.normal-text {
+	color: white;
+	font-size: 25px;
+	font-family: courier;
+}
+
+.platees {
+	color: white;
+	margin-top: 0px;
+	margin-right: 10px;
+	font-size: 25px;
+	font-family: courier;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 80px;
+}
+
+.plates {
+	width: 550px;
+	height: 450px;
+	border: 5px solid black;
+	border-radius: 10px;
+	margin-left: 10px;
+	transition: 0.5s;
+}
+
+.plates:hover {
+	width: 560px;
+	height: 460px;
+}
+
+.divergent {
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 200px;
+	border: 2px solid black;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+.con {
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 200px;
+	border: 2px solid black;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+.trans {
+	width: 350px;
+	height: 250px;
+	display: inline-block;
+	margin-left: 200px;
+	border: 2px solid black;
+	border-radius: 10px;
+	transition: 0.5s;
+}
+
+.dive {
+	color: white;
+	font-size: 25px;
+	display: inline-block;
+	margin-left: 240px;
+}
+
+.divergent:hover, .con:hover, .trans:hover {
+	scale: 1.2;
+	border-radius: 10% 10% 50% 50%;
+}
+
+.conv {
+	color: white;
+	font-size: 25px;
+	display: inline-block;
+	margin-left: 300px;
+}
+
+.tran {
+	color: white;
+	font-size: 25px;
+	display: inline-block;
+	margin-left: 280px;
+}
+
+.ctrl {
+	color: white;
+	font-family: courier;
+	text-align: center;
+}
+
+.oceanic {
+	width: 550px;
+	height: 250px;
+	border: 4px solid white;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 30px;
+	transition: 0.5s;
+}
+
+.oceanic:hover {
+	width: 560px;
+	height: 260px;
+}
+
+.ph {
+	width: 550px;
+	height: 250px;
+	border: 4px solid white;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 20px;
+	transition: 0.5s;
+}
+
+.ph:hover {
+	width: 560px;
+	height: 260px;
+}
+
+.fault {
+	width: 500px;
+	height: 350px;
+	border: 4px solid white;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 30px;
+	transition: 0.5s;
+}
+
+.fault:hover {
+	width: 510px;
+	height: 360px;
+}
+
+.Quiz {
+	color: black;
+	font-size: 40px;
+	font-family: courier;
+	width: 100px;
+	background-color: white;
+	margin-left: 20px;
+	padding: 5px;
+	text-decoration: none;
+	border: 3px solid white;
+	border-radius: 5px;
+	transition: 0.5s;
+}
+
+.Quiz:hover {
+	background-color: black;
+	color: white;
+	border: 3px solid black;
+}
+
+.center {
+	margin-top: 50px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.hrr {
+	margin-bottom: 100px;
+}
